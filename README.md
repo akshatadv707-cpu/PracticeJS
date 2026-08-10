@@ -1,0 +1,2 @@
+# firstjs
+Practice JS scripts
